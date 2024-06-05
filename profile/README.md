@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![ShortThirdMan Org's GitHub stats](https://github-readme-stats.vercel.app/api?username=shortthirdman-org)](https://github.com/shortthirdman-org/)
+
 <!--
 
 **Here are some ideas to get you started:**
