@@ -1,8 +1,14 @@
 ## Hi there 👋
 
-[![ShortThirdMan Org's GitHub stats](https://github-readme-stats.vercel.app/api?username=shortthirdman-org)](https://github.com/shortthirdman-org/)
+<p>
+    <a href="https://vaunt.dev">
+        <img src="https://api.vaunt.dev/v1/github/entities/{{github_username}}/contributions?format=svg" width="350" title="Includes public contributions"/>
+    </a>
+</p>
 
 <!--
+
+[![ShortThirdMan Org's GitHub stats](https://github-readme-stats.vercel.app/api?username=shortthirdman-org)](https://github.com/shortthirdman-org/)
 
 **Here are some ideas to get you started:**
 
