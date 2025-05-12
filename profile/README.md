@@ -1,10 +1,12 @@
 ## Hi there 👋
 
-<p>
-    <a href="https://vaunt.dev">
-        <img src="https://api.vaunt.dev/v1/github/entities/shortthirdman-org/contributions?format=svg" width="350" title="Includes public contributions"/>
-    </a>
-</p>
+[![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shortthirdman-org&theme=github_dark)](https://github.com/shortthirdman-org)
+
+[![GitHub Profile Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shortthirdman-org&theme=github_dark)](https://github.com/shortthirdman-org)
+
+![Commits by Offset](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shortthirdman-org&theme=github_dark&utcOffset=8)
+
+![Top Lang by Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shortthirdman-org&theme=github_dark)
 
 <!--
 
